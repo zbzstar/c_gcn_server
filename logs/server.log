@@ -1,0 +1,1428 @@
+2019-04-23 06:51:45,242 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:53:36,058 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:53:46,359 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:53:48,120 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:53:49,096 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:54:00,239 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:54:58,978 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:55:23,555 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:58:21,122 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 06:58:21,122 - c-gcn_server.py[line:21] - DEBUG: {'key1': 'value1', 'key2': 'value2'}
+2019-04-23 07:02:32,445 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 07:02:32,445 - c-gcn_server.py[line:21] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:03:29,859 - c-gcn_server.py[line:18] - DEBUG: get post info
+2019-04-23 07:03:29,859 - c-gcn_server.py[line:21] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:10:13,130 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:10:13,130 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:10:13,131 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:11] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:10:13,131 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:11] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:16:13,154 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:16:13,154 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:16:13,156 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:16:13,156 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:16:47,319 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:16:47,319 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:16:47,320 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:16:47,320 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:17:19,404 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:17:19,404 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:17:19,405 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:17:19,405 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:24:08,208 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:24:08,209 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:24:08,209 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:24:08,209 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:24:08,209 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:24:08,209 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:24:58,114 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:24:58,114 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:24:58,115 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:24:58,115 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:24:58,115 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:24:58,115 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:24:58,211 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: [[[0.17273094 0.21586819 0.16108783]
+  [0.17315602 0.21611233 0.16899224]
+  [0.18274932 0.22261508 0.17428865]
+  ...
+  [0.3007401  0.34025738 0.28928176]
+  [0.3019608  0.34111807 0.2901961 ]
+  [0.2942402  0.32573435 0.28241518]]
+
+ [[0.184375   0.22750938 0.17230393]
+  [0.17682101 0.21977444 0.1686016 ]
+  [0.18055779 0.2225921  0.17127278]
+  ...
+  [0.30105603 0.3402717  0.28958336]
+  [0.3019608  0.33761394 0.29002088]
+  [0.2942402  0.32585785 0.2784314 ]]
+
+ [[0.18812232 0.2312031  0.16826938]
+  [0.18080673 0.22032878 0.16465898]
+  [0.17793065 0.21655752 0.15829886]
+  ...
+  [0.30132413 0.34084618 0.28958336]
+  [0.30254483 0.34177485 0.28675035]
+  [0.29485294 0.33020833 0.2753016 ]]
+
+ ...
+
+ [[0.32146046 0.36465418 0.30999732]
+  [0.315153   0.36175036 0.30321884]
+  [0.32584444 0.36926413 0.31105337]
+  ...
+  [0.32941177 0.37313783 0.3254902 ]
+  [0.33001015 0.36970168 0.31859875]
+  [0.33358324 0.3731053  0.3185614 ]]
+
+ [[0.3325425  0.3720617  0.32083622]
+  [0.3176643  0.3645393  0.3092783 ]
+  [0.32205883 0.36490408 0.30640128]
+  ...
+  [0.33342716 0.37659314 0.3257822 ]
+  [0.32958698 0.37254903 0.32157725]
+  [0.3369514  0.3762255  0.3287435 ]]
+
+ [[0.34086916 0.38400736 0.32922605]
+  [0.32923082 0.37610582 0.3250613 ]
+  [0.32899243 0.3718233  0.32042357]
+  ...
+  [0.32917625 0.3723135  0.3213331 ]
+  [0.32941464 0.3725519  0.3215715 ]
+  [0.32573244 0.37260935 0.32168928]]]
+2019-04-23 07:24:58,211 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: [[[0.17273094 0.21586819 0.16108783]
+  [0.17315602 0.21611233 0.16899224]
+  [0.18274932 0.22261508 0.17428865]
+  ...
+  [0.3007401  0.34025738 0.28928176]
+  [0.3019608  0.34111807 0.2901961 ]
+  [0.2942402  0.32573435 0.28241518]]
+
+ [[0.184375   0.22750938 0.17230393]
+  [0.17682101 0.21977444 0.1686016 ]
+  [0.18055779 0.2225921  0.17127278]
+  ...
+  [0.30105603 0.3402717  0.28958336]
+  [0.3019608  0.33761394 0.29002088]
+  [0.2942402  0.32585785 0.2784314 ]]
+
+ [[0.18812232 0.2312031  0.16826938]
+  [0.18080673 0.22032878 0.16465898]
+  [0.17793065 0.21655752 0.15829886]
+  ...
+  [0.30132413 0.34084618 0.28958336]
+  [0.30254483 0.34177485 0.28675035]
+  [0.29485294 0.33020833 0.2753016 ]]
+
+ ...
+
+ [[0.32146046 0.36465418 0.30999732]
+  [0.315153   0.36175036 0.30321884]
+  [0.32584444 0.36926413 0.31105337]
+  ...
+  [0.32941177 0.37313783 0.3254902 ]
+  [0.33001015 0.36970168 0.31859875]
+  [0.33358324 0.3731053  0.3185614 ]]
+
+ [[0.3325425  0.3720617  0.32083622]
+  [0.3176643  0.3645393  0.3092783 ]
+  [0.32205883 0.36490408 0.30640128]
+  ...
+  [0.33342716 0.37659314 0.3257822 ]
+  [0.32958698 0.37254903 0.32157725]
+  [0.3369514  0.3762255  0.3287435 ]]
+
+ [[0.34086916 0.38400736 0.32922605]
+  [0.32923082 0.37610582 0.3250613 ]
+  [0.32899243 0.3718233  0.32042357]
+  ...
+  [0.32917625 0.3723135  0.3213331 ]
+  [0.32941464 0.3725519  0.3215715 ]
+  [0.32573244 0.37260935 0.32168928]]]
+2019-04-23 07:26:35,083 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:26:35,083 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:26:35,084 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:26:35,084 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:26:35,084 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:26:35,084 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:26:35,181 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: <class 'numpy.ndarray'>
+2019-04-23 07:26:35,181 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: <class 'numpy.ndarray'>
+2019-04-23 07:27:57,243 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:27:57,243 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:27:57,244 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:27:57,244 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:27:57,244 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:27:57,244 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:27:57,341 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: <class 'numpy.ndarray'>
+2019-04-23 07:27:57,341 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: <class 'numpy.ndarray'>
+2019-04-23 07:27:57,341 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:17] - DEBUG: [[0.85       0.5       ]
+ [0.84569097 0.44524795]
+ [0.83286977 0.39184403]
+ [0.8118523  0.34110332]
+ [0.7831559  0.29427516]
+ [0.74748737 0.25251263]
+ [0.70572484 0.21684405]
+ [0.6588967  0.18814772]
+ [0.60815597 0.1671302 ]
+ [0.55475205 0.15430906]
+ [0.5        0.15      ]
+ [0.44524795 0.15430906]
+ [0.39184403 0.1671302 ]
+ [0.34110332 0.18814772]
+ [0.29427516 0.21684405]
+ [0.25251263 0.25251263]
+ [0.21684405 0.29427516]
+ [0.18814772 0.34110332]
+ [0.1671302  0.39184403]
+ [0.15430906 0.44524795]
+ [0.15       0.5       ]
+ [0.15430906 0.55475205]
+ [0.1671302  0.60815597]
+ [0.18814772 0.6588967 ]
+ [0.21684405 0.70572484]
+ [0.25251263 0.74748737]
+ [0.29427516 0.7831559 ]
+ [0.34110332 0.8118523 ]
+ [0.39184403 0.83286977]
+ [0.44524795 0.84569097]
+ [0.5        0.85      ]
+ [0.55475205 0.84569097]
+ [0.60815597 0.83286977]
+ [0.6588967  0.8118523 ]
+ [0.70572484 0.7831559 ]
+ [0.74748737 0.74748737]
+ [0.7831559  0.70572484]
+ [0.8118523  0.6588967 ]
+ [0.83286977 0.60815597]
+ [0.84569097 0.55475205]]
+2019-04-23 07:27:57,341 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:17] - DEBUG: [[0.85       0.5       ]
+ [0.84569097 0.44524795]
+ [0.83286977 0.39184403]
+ [0.8118523  0.34110332]
+ [0.7831559  0.29427516]
+ [0.74748737 0.25251263]
+ [0.70572484 0.21684405]
+ [0.6588967  0.18814772]
+ [0.60815597 0.1671302 ]
+ [0.55475205 0.15430906]
+ [0.5        0.15      ]
+ [0.44524795 0.15430906]
+ [0.39184403 0.1671302 ]
+ [0.34110332 0.18814772]
+ [0.29427516 0.21684405]
+ [0.25251263 0.25251263]
+ [0.21684405 0.29427516]
+ [0.18814772 0.34110332]
+ [0.1671302  0.39184403]
+ [0.15430906 0.44524795]
+ [0.15       0.5       ]
+ [0.15430906 0.55475205]
+ [0.1671302  0.60815597]
+ [0.18814772 0.6588967 ]
+ [0.21684405 0.70572484]
+ [0.25251263 0.74748737]
+ [0.29427516 0.7831559 ]
+ [0.34110332 0.8118523 ]
+ [0.39184403 0.83286977]
+ [0.44524795 0.84569097]
+ [0.5        0.85      ]
+ [0.55475205 0.84569097]
+ [0.60815597 0.83286977]
+ [0.6588967  0.8118523 ]
+ [0.70572484 0.7831559 ]
+ [0.74748737 0.74748737]
+ [0.7831559  0.70572484]
+ [0.8118523  0.6588967 ]
+ [0.83286977 0.60815597]
+ [0.84569097 0.55475205]]
+2019-04-23 07:30:02,736 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:30:02,736 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:30:02,737 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:30:02,737 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:30:02,737 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:30:02,737 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:30:02,835 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: <class 'numpy.ndarray'>
+2019-04-23 07:30:02,835 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: <class 'numpy.ndarray'>
+2019-04-23 07:30:02,835 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:17] - DEBUG: [[0.85       0.5       ]
+ [0.84569097 0.44524795]
+ [0.83286977 0.39184403]
+ [0.8118523  0.34110332]
+ [0.7831559  0.29427516]
+ [0.74748737 0.25251263]
+ [0.70572484 0.21684405]
+ [0.6588967  0.18814772]
+ [0.60815597 0.1671302 ]
+ [0.55475205 0.15430906]
+ [0.5        0.15      ]
+ [0.44524795 0.15430906]
+ [0.39184403 0.1671302 ]
+ [0.34110332 0.18814772]
+ [0.29427516 0.21684405]
+ [0.25251263 0.25251263]
+ [0.21684405 0.29427516]
+ [0.18814772 0.34110332]
+ [0.1671302  0.39184403]
+ [0.15430906 0.44524795]
+ [0.15       0.5       ]
+ [0.15430906 0.55475205]
+ [0.1671302  0.60815597]
+ [0.18814772 0.6588967 ]
+ [0.21684405 0.70572484]
+ [0.25251263 0.74748737]
+ [0.29427516 0.7831559 ]
+ [0.34110332 0.8118523 ]
+ [0.39184403 0.83286977]
+ [0.44524795 0.84569097]
+ [0.5        0.85      ]
+ [0.55475205 0.84569097]
+ [0.60815597 0.83286977]
+ [0.6588967  0.8118523 ]
+ [0.70572484 0.7831559 ]
+ [0.74748737 0.74748737]
+ [0.7831559  0.70572484]
+ [0.8118523  0.6588967 ]
+ [0.83286977 0.60815597]
+ [0.84569097 0.55475205]]
+2019-04-23 07:30:02,835 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:17] - DEBUG: [[0.85       0.5       ]
+ [0.84569097 0.44524795]
+ [0.83286977 0.39184403]
+ [0.8118523  0.34110332]
+ [0.7831559  0.29427516]
+ [0.74748737 0.25251263]
+ [0.70572484 0.21684405]
+ [0.6588967  0.18814772]
+ [0.60815597 0.1671302 ]
+ [0.55475205 0.15430906]
+ [0.5        0.15      ]
+ [0.44524795 0.15430906]
+ [0.39184403 0.1671302 ]
+ [0.34110332 0.18814772]
+ [0.29427516 0.21684405]
+ [0.25251263 0.25251263]
+ [0.21684405 0.29427516]
+ [0.18814772 0.34110332]
+ [0.1671302  0.39184403]
+ [0.15430906 0.44524795]
+ [0.15       0.5       ]
+ [0.15430906 0.55475205]
+ [0.1671302  0.60815597]
+ [0.18814772 0.6588967 ]
+ [0.21684405 0.70572484]
+ [0.25251263 0.74748737]
+ [0.29427516 0.7831559 ]
+ [0.34110332 0.8118523 ]
+ [0.39184403 0.83286977]
+ [0.44524795 0.84569097]
+ [0.5        0.85      ]
+ [0.55475205 0.84569097]
+ [0.60815597 0.83286977]
+ [0.6588967  0.8118523 ]
+ [0.70572484 0.7831559 ]
+ [0.74748737 0.74748737]
+ [0.7831559  0.70572484]
+ [0.8118523  0.6588967 ]
+ [0.83286977 0.60815597]
+ [0.84569097 0.55475205]]
+2019-04-23 07:30:55,489 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:30:55,489 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:30:55,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:30:55,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:30:55,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:30:55,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:30:55,588 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (224, 224, 3)
+2019-04-23 07:30:55,588 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (224, 224, 3)
+2019-04-23 07:31:52,792 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:31:52,793 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:31:52,793 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:31:52,793 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:31:52,793 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:31:52,793 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:31:52,891 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:31:52,891 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:40:23,629 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:40:23,629 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:40:23,630 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:40:23,630 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:40:23,630 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:40:23,630 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:40:23,728 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:40:23,728 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:41:04,279 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:41:04,279 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:41:04,281 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:41:04,281 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:41:04,281 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:41:04,281 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:41:04,379 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:41:04,379 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:41:04,409 - c_gcn_server.py[line:24] - DEBUG: [[1582.38274841  481.93132886]
+ [1582.77300163  467.41808756]
+ [1577.92145642  450.54306926]
+ [1573.26273526  434.60800519]
+ [1565.40975904  419.6458594 ]
+ [1557.38838457  405.55355002]
+ [1548.11167737  391.31131843]
+ [1534.04834828  384.55388182]
+ [1517.76581034  384.17479394]
+ [1500.8950228   385.05898491]
+ [1483.69091652  385.91230287]
+ [1467.06322616  387.59678863]
+ [1450.84005345  390.25076734]
+ [1435.02162221  394.54940391]
+ [1421.6015125   403.40135309]
+ [1413.62776975  418.50545735]
+ [1409.73226783  431.90379787]
+ [1397.06369255  435.02319399]
+ [1387.38468256  439.63553823]
+ [1393.44640224  448.40940224]
+ [1401.59614263  457.94854228]
+ [1402.6370065   471.83085077]
+ [1402.26702861  488.30720788]
+ [1404.32656203  504.37564212]
+ [1407.03772221  520.17946899]
+ [1408.44057711  535.25217731]
+ [1414.21011623  545.51556038]
+ [1427.75797236  546.30710661]
+ [1439.10585339  539.6944907 ]
+ [1450.42923772  530.56923   ]
+ [1464.12139378  524.84571288]
+ [1479.47495819  522.78823994]
+ [1496.14776219  521.47338725]
+ [1513.1598425   520.49335158]
+ [1530.24282795  520.01323611]
+ [1545.62373744  521.92379463]
+ [1557.90953405  529.20590722]
+ [1569.50087489  535.96298186]
+ [1583.3811488   531.22513617]
+ [1585.8686117   515.22777498]
+ [1583.17706013  497.83910686]
+ [1582.38274841  481.93132886]]
+2019-04-23 07:41:04,409 - c_gcn_server.py[line:24] - DEBUG: [[1582.38274841  481.93132886]
+ [1582.77300163  467.41808756]
+ [1577.92145642  450.54306926]
+ [1573.26273526  434.60800519]
+ [1565.40975904  419.6458594 ]
+ [1557.38838457  405.55355002]
+ [1548.11167737  391.31131843]
+ [1534.04834828  384.55388182]
+ [1517.76581034  384.17479394]
+ [1500.8950228   385.05898491]
+ [1483.69091652  385.91230287]
+ [1467.06322616  387.59678863]
+ [1450.84005345  390.25076734]
+ [1435.02162221  394.54940391]
+ [1421.6015125   403.40135309]
+ [1413.62776975  418.50545735]
+ [1409.73226783  431.90379787]
+ [1397.06369255  435.02319399]
+ [1387.38468256  439.63553823]
+ [1393.44640224  448.40940224]
+ [1401.59614263  457.94854228]
+ [1402.6370065   471.83085077]
+ [1402.26702861  488.30720788]
+ [1404.32656203  504.37564212]
+ [1407.03772221  520.17946899]
+ [1408.44057711  535.25217731]
+ [1414.21011623  545.51556038]
+ [1427.75797236  546.30710661]
+ [1439.10585339  539.6944907 ]
+ [1450.42923772  530.56923   ]
+ [1464.12139378  524.84571288]
+ [1479.47495819  522.78823994]
+ [1496.14776219  521.47338725]
+ [1513.1598425   520.49335158]
+ [1530.24282795  520.01323611]
+ [1545.62373744  521.92379463]
+ [1557.90953405  529.20590722]
+ [1569.50087489  535.96298186]
+ [1583.3811488   531.22513617]
+ [1585.8686117   515.22777498]
+ [1583.17706013  497.83910686]
+ [1582.38274841  481.93132886]]
+2019-04-23 07:42:47,535 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:42:47,535 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:42:47,538 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:42:47,538 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:42:47,538 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:42:47,538 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:42:47,640 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:42:47,640 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:42:47,670 - c_gcn_server.py[line:27] - DEBUG: {'poly': array([[1582.38274841,  481.93132886],
+       [1582.77300163,  467.41808756],
+       [1577.92145642,  450.54306926],
+       [1573.26273526,  434.60800519],
+       [1565.40975904,  419.6458594 ],
+       [1557.38838457,  405.55355002],
+       [1548.11167737,  391.31131843],
+       [1534.04834828,  384.55388182],
+       [1517.76581034,  384.17479394],
+       [1500.8950228 ,  385.05898491],
+       [1483.69091652,  385.91230287],
+       [1467.06322616,  387.59678863],
+       [1450.84005345,  390.25076734],
+       [1435.02162221,  394.54940391],
+       [1421.6015125 ,  403.40135309],
+       [1413.62776975,  418.50545735],
+       [1409.73226783,  431.90379787],
+       [1397.06369255,  435.02319399],
+       [1387.38468256,  439.63553823],
+       [1393.44640224,  448.40940224],
+       [1401.59614263,  457.94854228],
+       [1402.6370065 ,  471.83085077],
+       [1402.26702861,  488.30720788],
+       [1404.32656203,  504.37564212],
+       [1407.03772221,  520.17946899],
+       [1408.44057711,  535.25217731],
+       [1414.21011623,  545.51556038],
+       [1427.75797236,  546.30710661],
+       [1439.10585339,  539.6944907 ],
+       [1450.42923772,  530.56923   ],
+       [1464.12139378,  524.84571288],
+       [1479.47495819,  522.78823994],
+       [1496.14776219,  521.47338725],
+       [1513.1598425 ,  520.49335158],
+       [1530.24282795,  520.01323611],
+       [1545.62373744,  521.92379463],
+       [1557.90953405,  529.20590722],
+       [1569.50087489,  535.96298186],
+       [1583.3811488 ,  531.22513617],
+       [1585.8686117 ,  515.22777498],
+       [1583.17706013,  497.83910686],
+       [1582.38274841,  481.93132886]])}
+2019-04-23 07:42:47,670 - c_gcn_server.py[line:27] - DEBUG: {'poly': array([[1582.38274841,  481.93132886],
+       [1582.77300163,  467.41808756],
+       [1577.92145642,  450.54306926],
+       [1573.26273526,  434.60800519],
+       [1565.40975904,  419.6458594 ],
+       [1557.38838457,  405.55355002],
+       [1548.11167737,  391.31131843],
+       [1534.04834828,  384.55388182],
+       [1517.76581034,  384.17479394],
+       [1500.8950228 ,  385.05898491],
+       [1483.69091652,  385.91230287],
+       [1467.06322616,  387.59678863],
+       [1450.84005345,  390.25076734],
+       [1435.02162221,  394.54940391],
+       [1421.6015125 ,  403.40135309],
+       [1413.62776975,  418.50545735],
+       [1409.73226783,  431.90379787],
+       [1397.06369255,  435.02319399],
+       [1387.38468256,  439.63553823],
+       [1393.44640224,  448.40940224],
+       [1401.59614263,  457.94854228],
+       [1402.6370065 ,  471.83085077],
+       [1402.26702861,  488.30720788],
+       [1404.32656203,  504.37564212],
+       [1407.03772221,  520.17946899],
+       [1408.44057711,  535.25217731],
+       [1414.21011623,  545.51556038],
+       [1427.75797236,  546.30710661],
+       [1439.10585339,  539.6944907 ],
+       [1450.42923772,  530.56923   ],
+       [1464.12139378,  524.84571288],
+       [1479.47495819,  522.78823994],
+       [1496.14776219,  521.47338725],
+       [1513.1598425 ,  520.49335158],
+       [1530.24282795,  520.01323611],
+       [1545.62373744,  521.92379463],
+       [1557.90953405,  529.20590722],
+       [1569.50087489,  535.96298186],
+       [1583.3811488 ,  531.22513617],
+       [1585.8686117 ,  515.22777498],
+       [1583.17706013,  497.83910686],
+       [1582.38274841,  481.93132886]])}
+2019-04-23 07:43:21,481 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:43:21,481 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:43:21,482 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:43:21,482 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:43:21,482 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:43:21,482 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:43:21,581 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:43:21,581 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:43:21,612 - c_gcn_server.py[line:27] - DEBUG: {'poly': array([[1582.38274841,  481.93132886],
+       [1582.77300163,  467.41808756],
+       [1577.92145642,  450.54306926],
+       [1573.26273526,  434.60800519],
+       [1565.40975904,  419.6458594 ],
+       [1557.38838457,  405.55355002],
+       [1548.11167737,  391.31131843],
+       [1534.04834828,  384.55388182],
+       [1517.76581034,  384.17479394],
+       [1500.8950228 ,  385.05898491],
+       [1483.69091652,  385.91230287],
+       [1467.06322616,  387.59678863],
+       [1450.84005345,  390.25076734],
+       [1435.02162221,  394.54940391],
+       [1421.6015125 ,  403.40135309],
+       [1413.62776975,  418.50545735],
+       [1409.73226783,  431.90379787],
+       [1397.06369255,  435.02319399],
+       [1387.38468256,  439.63553823],
+       [1393.44640224,  448.40940224],
+       [1401.59614263,  457.94854228],
+       [1402.6370065 ,  471.83085077],
+       [1402.26702861,  488.30720788],
+       [1404.32656203,  504.37564212],
+       [1407.03772221,  520.17946899],
+       [1408.44057711,  535.25217731],
+       [1414.21011623,  545.51556038],
+       [1427.75797236,  546.30710661],
+       [1439.10585339,  539.6944907 ],
+       [1450.42923772,  530.56923   ],
+       [1464.12139378,  524.84571288],
+       [1479.47495819,  522.78823994],
+       [1496.14776219,  521.47338725],
+       [1513.1598425 ,  520.49335158],
+       [1530.24282795,  520.01323611],
+       [1545.62373744,  521.92379463],
+       [1557.90953405,  529.20590722],
+       [1569.50087489,  535.96298186],
+       [1583.3811488 ,  531.22513617],
+       [1585.8686117 ,  515.22777498],
+       [1583.17706013,  497.83910686],
+       [1582.38274841,  481.93132886]])}
+2019-04-23 07:43:21,612 - c_gcn_server.py[line:27] - DEBUG: {'poly': array([[1582.38274841,  481.93132886],
+       [1582.77300163,  467.41808756],
+       [1577.92145642,  450.54306926],
+       [1573.26273526,  434.60800519],
+       [1565.40975904,  419.6458594 ],
+       [1557.38838457,  405.55355002],
+       [1548.11167737,  391.31131843],
+       [1534.04834828,  384.55388182],
+       [1517.76581034,  384.17479394],
+       [1500.8950228 ,  385.05898491],
+       [1483.69091652,  385.91230287],
+       [1467.06322616,  387.59678863],
+       [1450.84005345,  390.25076734],
+       [1435.02162221,  394.54940391],
+       [1421.6015125 ,  403.40135309],
+       [1413.62776975,  418.50545735],
+       [1409.73226783,  431.90379787],
+       [1397.06369255,  435.02319399],
+       [1387.38468256,  439.63553823],
+       [1393.44640224,  448.40940224],
+       [1401.59614263,  457.94854228],
+       [1402.6370065 ,  471.83085077],
+       [1402.26702861,  488.30720788],
+       [1404.32656203,  504.37564212],
+       [1407.03772221,  520.17946899],
+       [1408.44057711,  535.25217731],
+       [1414.21011623,  545.51556038],
+       [1427.75797236,  546.30710661],
+       [1439.10585339,  539.6944907 ],
+       [1450.42923772,  530.56923   ],
+       [1464.12139378,  524.84571288],
+       [1479.47495819,  522.78823994],
+       [1496.14776219,  521.47338725],
+       [1513.1598425 ,  520.49335158],
+       [1530.24282795,  520.01323611],
+       [1545.62373744,  521.92379463],
+       [1557.90953405,  529.20590722],
+       [1569.50087489,  535.96298186],
+       [1583.3811488 ,  531.22513617],
+       [1585.8686117 ,  515.22777498],
+       [1583.17706013,  497.83910686],
+       [1582.38274841,  481.93132886]])}
+2019-04-23 07:45:27,355 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:45:27,355 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:45:27,357 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:45:27,357 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:45:27,357 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:45:27,357 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:45:27,455 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:45:27,455 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:45:27,486 - c_gcn_server.py[line:27] - DEBUG: {'poly': array([[1582.38274841,  481.93132886],
+       [1582.77300163,  467.41808756],
+       [1577.92145642,  450.54306926],
+       [1573.26273526,  434.60800519],
+       [1565.40975904,  419.6458594 ],
+       [1557.38838457,  405.55355002],
+       [1548.11167737,  391.31131843],
+       [1534.04834828,  384.55388182],
+       [1517.76581034,  384.17479394],
+       [1500.8950228 ,  385.05898491],
+       [1483.69091652,  385.91230287],
+       [1467.06322616,  387.59678863],
+       [1450.84005345,  390.25076734],
+       [1435.02162221,  394.54940391],
+       [1421.6015125 ,  403.40135309],
+       [1413.62776975,  418.50545735],
+       [1409.73226783,  431.90379787],
+       [1397.06369255,  435.02319399],
+       [1387.38468256,  439.63553823],
+       [1393.44640224,  448.40940224],
+       [1401.59614263,  457.94854228],
+       [1402.6370065 ,  471.83085077],
+       [1402.26702861,  488.30720788],
+       [1404.32656203,  504.37564212],
+       [1407.03772221,  520.17946899],
+       [1408.44057711,  535.25217731],
+       [1414.21011623,  545.51556038],
+       [1427.75797236,  546.30710661],
+       [1439.10585339,  539.6944907 ],
+       [1450.42923772,  530.56923   ],
+       [1464.12139378,  524.84571288],
+       [1479.47495819,  522.78823994],
+       [1496.14776219,  521.47338725],
+       [1513.1598425 ,  520.49335158],
+       [1530.24282795,  520.01323611],
+       [1545.62373744,  521.92379463],
+       [1557.90953405,  529.20590722],
+       [1569.50087489,  535.96298186],
+       [1583.3811488 ,  531.22513617],
+       [1585.8686117 ,  515.22777498],
+       [1583.17706013,  497.83910686],
+       [1582.38274841,  481.93132886]])}
+2019-04-23 07:45:27,486 - c_gcn_server.py[line:27] - DEBUG: {'poly': array([[1582.38274841,  481.93132886],
+       [1582.77300163,  467.41808756],
+       [1577.92145642,  450.54306926],
+       [1573.26273526,  434.60800519],
+       [1565.40975904,  419.6458594 ],
+       [1557.38838457,  405.55355002],
+       [1548.11167737,  391.31131843],
+       [1534.04834828,  384.55388182],
+       [1517.76581034,  384.17479394],
+       [1500.8950228 ,  385.05898491],
+       [1483.69091652,  385.91230287],
+       [1467.06322616,  387.59678863],
+       [1450.84005345,  390.25076734],
+       [1435.02162221,  394.54940391],
+       [1421.6015125 ,  403.40135309],
+       [1413.62776975,  418.50545735],
+       [1409.73226783,  431.90379787],
+       [1397.06369255,  435.02319399],
+       [1387.38468256,  439.63553823],
+       [1393.44640224,  448.40940224],
+       [1401.59614263,  457.94854228],
+       [1402.6370065 ,  471.83085077],
+       [1402.26702861,  488.30720788],
+       [1404.32656203,  504.37564212],
+       [1407.03772221,  520.17946899],
+       [1408.44057711,  535.25217731],
+       [1414.21011623,  545.51556038],
+       [1427.75797236,  546.30710661],
+       [1439.10585339,  539.6944907 ],
+       [1450.42923772,  530.56923   ],
+       [1464.12139378,  524.84571288],
+       [1479.47495819,  522.78823994],
+       [1496.14776219,  521.47338725],
+       [1513.1598425 ,  520.49335158],
+       [1530.24282795,  520.01323611],
+       [1545.62373744,  521.92379463],
+       [1557.90953405,  529.20590722],
+       [1569.50087489,  535.96298186],
+       [1583.3811488 ,  531.22513617],
+       [1585.8686117 ,  515.22777498],
+       [1583.17706013,  497.83910686],
+       [1582.38274841,  481.93132886]])}
+2019-04-23 07:47:01,762 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:47:01,762 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:47:01,764 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:47:01,764 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:47:01,764 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:47:01,764 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:47:01,862 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:47:01,862 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:47:01,894 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:47:01,894 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:47:46,489 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:47:46,489 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:47:46,490 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:47:46,490 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:47:46,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:47:46,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:47:46,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:47:46,490 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:47:46,580 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:47:46,580 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:47:46,611 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:47:46,611 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:48:00,632 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:48:00,632 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:48:00,632 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:48:00,632 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:48:00,632 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:48:00,632 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:48:00,633 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:48:00,633 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:48:00,722 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:48:00,722 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:48:00,749 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:48:00,749 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:49:11,279 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:49:11,279 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:49:11,279 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:49:11,279 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:49:11,279 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:49:11,279 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:49:11,279 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:49:11,279 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:49:11,368 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:49:11,368 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:49:11,400 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:49:11,400 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:49:28,188 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:49:28,188 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:49:28,188 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:49:28,188 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:49:28,188 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:49:28,188 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:49:28,188 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:49:28,188 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:49:28,277 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:49:28,277 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:49:28,314 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:49:28,314 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:50:13,480 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:50:13,480 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:50:13,480 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:50:13,480 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:50:13,480 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:50:13,480 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:50:13,480 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:50:13,480 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:50:13,569 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:50:13,569 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:50:13,604 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:50:13,604 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:50:58,796 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:50:58,796 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:50:58,796 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:50:58,796 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:50:58,796 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:50:58,796 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:50:58,796 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:50:58,796 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:50:58,886 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:50:58,886 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:50:58,921 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:50:58,921 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:51:07,324 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:51:07,324 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:51:07,324 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:51:07,324 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:51:07,324 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:51:07,324 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:51:07,324 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:51:07,324 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:51:07,413 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:51:07,413 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:51:07,440 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:51:07,440 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:51:28,749 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:51:28,749 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 07:51:28,749 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:51:28,749 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 07:51:28,750 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:51:28,750 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 07:51:28,750 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:51:28,750 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 07:51:28,839 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:51:28,839 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 07:51:28,870 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 07:51:28,870 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 08:06:31,805 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 08:06:31,805 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-23 08:06:31,805 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 08:06:31,805 - c_gcn_server.py[line:22] - DEBUG: {'img_path': '/shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png', 'region': {'bbox': [1386, 382, 200, 168]}}
+2019-04-23 08:06:31,805 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 08:06:31,805 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: /shared/tmp/jupyter/data/cityscapes/leftImg8bit/val/munster/munster_000022_000019_leftImg8bit.png
+2019-04-23 08:06:31,805 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 08:06:31,805 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [1386, 382, 200, 168]}
+2019-04-23 08:06:31,894 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 08:06:31,894 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-23 08:06:31,920 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-23 08:06:31,920 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[1582.3827484104668, 481.9313288578162], [1582.7730016315854, 467.4180875558687], [1577.9214564176593, 450.54306926342133], [1573.2627352556078, 434.60800519440323], [1565.4097590417396, 419.64585939885734], [1557.388384569709, 405.55355002022463], [1548.1116773682397, 391.3113184313232], [1534.0483482756267, 384.5538818154765], [1517.7658103362817, 384.17479393867524], [1500.8950228044173, 385.0589849107518], [1483.6909165215202, 385.9123028660334], [1467.0632261604799, 387.5967886338877], [1450.8400534496802, 390.2507673400206], [1435.021622214012, 394.5494039125923], [1421.601512503515, 403.4013530948176], [1413.627769748067, 418.50545735057506], [1409.7322678297032, 431.9037978656405], [1397.0636925450187, 435.02319398595034], [1387.3846825606577, 439.6355382276739], [1393.4464022371826, 448.40940224324737], [1401.5961426347494, 457.9485422819848], [1402.6370064966927, 471.8308507694698], [1402.2670286119712, 488.30720788313056], [1404.3265620326488, 504.3756421186568], [1407.0377222054253, 520.1794689900984], [1408.440577114319, 535.2521773133328], [1414.2101162319505, 545.5155603791147], [1427.7579723616564, 546.3071066104778], [1439.1058533893126, 539.6944907016865], [1450.4292377229872, 530.5692300033274], [1464.1213937848806, 524.8457128848968], [1479.4749581853791, 522.7882399377297], [1496.1477621910049, 521.4733872500859], [1513.1598425013262, 520.4933515801662], [1530.2428279511812, 520.0132361076227], [1545.6237374398765, 521.9237946279165], [1557.9095340458357, 529.2059072212476], [1569.500874889333, 535.9629818637197], [1583.3811488035249, 531.2251361681195], [1585.8686116977435, 515.2277749827724], [1583.177060130165, 497.8391068592302], [1582.3827484104668, 481.9313288578162]]}
+2019-04-24 01:33:07,636 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-24 01:33:07,636 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-24 01:33:07,636 - c_gcn_server.py[line:22] - DEBUG: {'img_path': 'http://localhost/images/1.jpeg', 'region': {'bbox': [379, 275, 54, 170]}}
+2019-04-24 01:33:07,636 - c_gcn_server.py[line:22] - DEBUG: {'img_path': 'http://localhost/images/1.jpeg', 'region': {'bbox': [379, 275, 54, 170]}}
+2019-04-24 01:33:07,636 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: http://localhost/images/1.jpeg
+2019-04-24 01:33:07,636 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: http://localhost/images/1.jpeg
+2019-04-24 01:33:07,636 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [379, 275, 54, 170]}
+2019-04-24 01:33:07,636 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [379, 275, 54, 170]}
+2019-04-24 01:46:18,427 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-24 01:46:18,427 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-24 01:46:18,428 - c_gcn_server.py[line:22] - DEBUG: {'img_path': 'http://localhost/images/1.jpeg', 'region': {'bbox': [379, 275, 54, 170]}}
+2019-04-24 01:46:18,428 - c_gcn_server.py[line:22] - DEBUG: {'img_path': 'http://localhost/images/1.jpeg', 'region': {'bbox': [379, 275, 54, 170]}}
+2019-04-24 01:46:18,428 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: http://localhost/images/1.jpeg
+2019-04-24 01:46:18,428 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: http://localhost/images/1.jpeg
+2019-04-24 01:46:18,428 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [379, 275, 54, 170]}
+2019-04-24 01:46:18,428 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [379, 275, 54, 170]}
+2019-04-24 01:48:13,992 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-24 01:48:13,992 - c_gcn_server.py[line:19] - DEBUG: get post info
+2019-04-24 01:48:13,993 - c_gcn_server.py[line:22] - DEBUG: {'img_path': 'http://172.16.150.198/images/1.jpeg', 'region': {'bbox': [659, 257, 85, 192]}}
+2019-04-24 01:48:13,993 - c_gcn_server.py[line:22] - DEBUG: {'img_path': 'http://172.16.150.198/images/1.jpeg', 'region': {'bbox': [659, 257, 85, 192]}}
+2019-04-24 01:48:13,993 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: http://172.16.150.198/images/1.jpeg
+2019-04-24 01:48:13,993 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:12] - DEBUG: http://172.16.150.198/images/1.jpeg
+2019-04-24 01:48:13,993 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [659, 257, 85, 192]}
+2019-04-24 01:48:13,993 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:13] - DEBUG: {'bbox': [659, 257, 85, 192]}
+2019-04-24 01:48:14,129 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-24 01:48:14,129 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:15] - DEBUG: (3, 224, 224)
+2019-04-24 01:48:14,161 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[434.0257716675582, 682.9232323865086], [433.75051680207065, 669.2162784785024], [428.17764295140705, 657.4543153097226], [420.69410006205044, 646.1236482510959], [411.77946192025945, 637.0543718338008], [403.6775592962882, 629.3497498830156], [394.12070714433816, 624.7840267245965], [383.5596788227542, 620.837769590318], [373.9804896116242, 615.9458997994659], [360.36110892891753, 612.1746916721263], [347.6744272112835, 608.5433410145341], [334.40847079952465, 608.4545161152878], [319.7007097899907, 610.7787549197673], [305.3226675167675, 615.4137072600423], [293.4745668123164, 623.9485423763591], [282.7908834367991, 632.5343964050211], [273.4600950665774, 641.7528516352173], [269.10802604133926, 654.2369918078181], [267.1145325725283, 668.7753588358557], [265.53600191697547, 685.1463060528035], [264.09955929592337, 703.0728293359275], [262.4087907274575, 721.8747802972789], [261.10283458232993, 740.997206062078], [260.66758005569505, 759.9969102342919], [264.0375072956098, 776.3250899016853], [273.5031062886131, 785.9662112295625], [287.45185840626664, 789.5967654287813], [306.092882302901, 791.4313534299531], [327.1387263089425, 792.7346547842026], [343.62346889078674, 793.2278210322062], [360.6554793020093, 789.8912344276905], [376.08699372410797, 782.5559337437153], [390.4590638577939, 774.6777185300986], [402.7605773011843, 763.8952738940717], [412.35179734230036, 751.6320870518686], [420.9608690539995, 738.2968748807908], [428.1364084084827, 725.9563743472102], [431.73942404985405, 712.442695885897], [433.12884178757645, 697.9222366213803], [434.0257716675582, 682.9232323865086]]}
+2019-04-24 01:48:14,161 - c_gcn_server.py[line:27] - DEBUG: {'poly': [[434.0257716675582, 682.9232323865086], [433.75051680207065, 669.2162784785024], [428.17764295140705, 657.4543153097226], [420.69410006205044, 646.1236482510959], [411.77946192025945, 637.0543718338008], [403.6775592962882, 629.3497498830156], [394.12070714433816, 624.7840267245965], [383.5596788227542, 620.837769590318], [373.9804896116242, 615.9458997994659], [360.36110892891753, 612.1746916721263], [347.6744272112835, 608.5433410145341], [334.40847079952465, 608.4545161152878], [319.7007097899907, 610.7787549197673], [305.3226675167675, 615.4137072600423], [293.4745668123164, 623.9485423763591], [282.7908834367991, 632.5343964050211], [273.4600950665774, 641.7528516352173], [269.10802604133926, 654.2369918078181], [267.1145325725283, 668.7753588358557], [265.53600191697547, 685.1463060528035], [264.09955929592337, 703.0728293359275], [262.4087907274575, 721.8747802972789], [261.10283458232993, 740.997206062078], [260.66758005569505, 759.9969102342919], [264.0375072956098, 776.3250899016853], [273.5031062886131, 785.9662112295625], [287.45185840626664, 789.5967654287813], [306.092882302901, 791.4313534299531], [327.1387263089425, 792.7346547842026], [343.62346889078674, 793.2278210322062], [360.6554793020093, 789.8912344276905], [376.08699372410797, 782.5559337437153], [390.4590638577939, 774.6777185300986], [402.7605773011843, 763.8952738940717], [412.35179734230036, 751.6320870518686], [420.9608690539995, 738.2968748807908], [428.1364084084827, 725.9563743472102], [431.73942404985405, 712.442695885897], [433.12884178757645, 697.9222366213803], [434.0257716675582, 682.9232323865086]]}
+2019-04-24 01:59:23,404 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:01:11,663 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:01:49,838 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:01:49,838 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:03:00,558 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:03:00,558 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:05:14,949 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:05:14,949 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:06:30,567 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:06:30,567 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:06:30,848 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:06:30,848 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:10:13,904 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:10:13,904 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:10:14,159 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:10:14,159 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:10:14,383 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:10:14,383 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:30:30,078 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:30:30,078 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:35:15,850 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:35:15,850 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:35:57,043 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:35:57,043 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:35:57,335 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:35:57,335 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:30,783 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:30,783 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:31,127 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:31,127 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:31,345 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:31,345 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:31,633 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:40:31,633 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:43:35,998 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:43:35,998 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:47:29,250 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:47:29,250 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:47:29,487 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:47:29,487 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:49:20,390 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:49:20,390 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:49:20,648 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:49:20,648 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:49:20,882 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:49:20,882 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:50:39,481 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:50:39,481 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:53:42,411 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 02:53:42,411 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:25:53,317 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:25:53,317 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:32:02,943 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:32:02,943 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:36:40,665 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:36:40,665 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:49:33,747 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:49:52,417 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:49:52,417 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:50:33,611 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 03:50:33,611 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:02:25,801 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:02:25,801 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:04:39,964 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:04:39,964 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:12:17,400 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:12:42,035 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:12:42,035 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:13:13,531 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:14:53,994 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:14:57,336 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:14:57,336 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:16:00,652 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:16:00,828 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:39] - INFO: [0.77001359 0.83561522 0.84715517 0.86419285 0.87376091 0.85436392
+ 0.8061457  0.75037718 0.68675486 0.62277242 0.56326928 0.50235076
+ 0.44562515 0.39427879 0.34556677 0.29870255 0.25644689 0.21774785
+ 0.18371924 0.16389043 0.15519915 0.14941355 0.14532376 0.14572089
+ 0.15072865 0.15596886 0.15916627 0.15747583 0.16345045 0.17644752
+ 0.19640384 0.2231043  0.2486674  0.2704058  0.29831865 0.33527308
+ 0.37842188 0.42647591 0.47608755 0.53122795 0.5864419  0.63799342
+ 0.68709611 0.73605752 0.73840036 0.77001359]
+2019-04-24 06:16:00,828 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:39] - INFO: [0.77001359 0.83561522 0.84715517 0.86419285 0.87376091 0.85436392
+ 0.8061457  0.75037718 0.68675486 0.62277242 0.56326928 0.50235076
+ 0.44562515 0.39427879 0.34556677 0.29870255 0.25644689 0.21774785
+ 0.18371924 0.16389043 0.15519915 0.14941355 0.14532376 0.14572089
+ 0.15072865 0.15596886 0.15916627 0.15747583 0.16345045 0.17644752
+ 0.19640384 0.2231043  0.2486674  0.2704058  0.29831865 0.33527308
+ 0.37842188 0.42647591 0.47608755 0.53122795 0.5864419  0.63799342
+ 0.68709611 0.73605752 0.73840036 0.77001359]
+2019-04-24 06:19:38,015 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:21:56,509 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:28:54,960 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:30:50,425 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:30:50,604 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:37] - INFO: [[192.50339849 687.91697943]
+ [208.90380442 691.04362758]
+ [211.78879175 684.39215031]
+ [216.04821334 676.94737082]
+ [218.44022721 666.45567846]
+ [213.59097958 656.70869254]
+ [201.53642529 651.72183227]
+ [187.59429455 649.63998131]
+ [171.68871396 653.24911871]
+ [155.69310553 653.50822673]
+ [140.81731935 656.61249416]
+ [125.58769021 657.72121961]
+ [111.40628863 656.21840563]
+ [ 98.56969863 651.83528309]
+ [ 86.39169277 646.72419266]
+ [ 74.67563781 644.26958171]
+ [ 64.11172263 646.36767017]
+ [ 54.43696181 652.52312545]
+ [ 45.92980941 662.41992702]
+ [ 40.97260721 674.7848576 ]
+ [ 38.79978777 688.92094392]
+ [ 37.3533871  704.41571688]
+ [ 36.3309402  719.61197984]
+ [ 36.43022291 733.59850031]
+ [ 37.68216239 746.40035611]
+ [ 38.99221495 757.98107666]
+ [ 39.79156829 767.52717361]
+ [ 39.36895811 772.03810611]
+ [ 40.86261243 769.72505184]
+ [ 44.11188099 762.79350352]
+ [ 49.10096071 755.44267378]
+ [ 55.77607453 747.74146807]
+ [ 62.16685019 737.84935705]
+ [ 67.6014502  725.33913477]
+ [ 74.57966357 711.93563175]
+ [ 83.81826886 698.59655722]
+ [ 94.60547111 687.40694414]
+ [106.61897684 677.69081376]
+ [119.02188799 670.08080481]
+ [132.80698864 666.4070477 ]
+ [146.61047608 667.08489117]
+ [159.49835545 670.83262427]
+ [171.77402642 675.84727894]
+ [184.01437998 681.87953638]
+ [184.60008999 685.34718436]
+ [192.50339849 687.91697943]]
+2019-04-24 06:30:50,604 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:37] - INFO: [[192.50339849 687.91697943]
+ [208.90380442 691.04362758]
+ [211.78879175 684.39215031]
+ [216.04821334 676.94737082]
+ [218.44022721 666.45567846]
+ [213.59097958 656.70869254]
+ [201.53642529 651.72183227]
+ [187.59429455 649.63998131]
+ [171.68871396 653.24911871]
+ [155.69310553 653.50822673]
+ [140.81731935 656.61249416]
+ [125.58769021 657.72121961]
+ [111.40628863 656.21840563]
+ [ 98.56969863 651.83528309]
+ [ 86.39169277 646.72419266]
+ [ 74.67563781 644.26958171]
+ [ 64.11172263 646.36767017]
+ [ 54.43696181 652.52312545]
+ [ 45.92980941 662.41992702]
+ [ 40.97260721 674.7848576 ]
+ [ 38.79978777 688.92094392]
+ [ 37.3533871  704.41571688]
+ [ 36.3309402  719.61197984]
+ [ 36.43022291 733.59850031]
+ [ 37.68216239 746.40035611]
+ [ 38.99221495 757.98107666]
+ [ 39.79156829 767.52717361]
+ [ 39.36895811 772.03810611]
+ [ 40.86261243 769.72505184]
+ [ 44.11188099 762.79350352]
+ [ 49.10096071 755.44267378]
+ [ 55.77607453 747.74146807]
+ [ 62.16685019 737.84935705]
+ [ 67.6014502  725.33913477]
+ [ 74.57966357 711.93563175]
+ [ 83.81826886 698.59655722]
+ [ 94.60547111 687.40694414]
+ [106.61897684 677.69081376]
+ [119.02188799 670.08080481]
+ [132.80698864 666.4070477 ]
+ [146.61047608 667.08489117]
+ [159.49835545 670.83262427]
+ [171.77402642 675.84727894]
+ [184.01437998 681.87953638]
+ [184.60008999 685.34718436]
+ [192.50339849 687.91697943]]
+2019-04-24 06:30:50,609 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:42] - INFO: ==========
+2019-04-24 06:30:50,609 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:42] - INFO: ==========
+2019-04-24 06:30:50,609 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:43] - INFO: [[687.91697943 687.91697943]
+ [691.04362758 691.04362758]
+ [684.39215031 684.39215031]
+ [676.94737082 676.94737082]
+ [666.45567846 666.45567846]
+ [656.70869254 656.70869254]
+ [651.72183227 651.72183227]
+ [649.63998131 649.63998131]
+ [653.24911871 653.24911871]
+ [653.50822673 653.50822673]
+ [656.61249416 656.61249416]
+ [657.72121961 657.72121961]
+ [656.21840563 656.21840563]
+ [651.83528309 651.83528309]
+ [646.72419266 646.72419266]
+ [644.26958171 644.26958171]
+ [646.36767017 646.36767017]
+ [652.52312545 652.52312545]
+ [662.41992702 662.41992702]
+ [674.7848576  674.7848576 ]
+ [688.92094392 688.92094392]
+ [704.41571688 704.41571688]
+ [719.61197984 719.61197984]
+ [733.59850031 733.59850031]
+ [746.40035611 746.40035611]
+ [757.98107666 757.98107666]
+ [767.52717361 767.52717361]
+ [772.03810611 772.03810611]
+ [769.72505184 769.72505184]
+ [762.79350352 762.79350352]
+ [755.44267378 755.44267378]
+ [747.74146807 747.74146807]
+ [737.84935705 737.84935705]
+ [725.33913477 725.33913477]
+ [711.93563175 711.93563175]
+ [698.59655722 698.59655722]
+ [687.40694414 687.40694414]
+ [677.69081376 677.69081376]
+ [670.08080481 670.08080481]
+ [666.4070477  666.4070477 ]
+ [667.08489117 667.08489117]
+ [670.83262427 670.83262427]
+ [675.84727894 675.84727894]
+ [681.87953638 681.87953638]
+ [685.34718436 685.34718436]
+ [687.91697943 687.91697943]]
+2019-04-24 06:30:50,609 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:43] - INFO: [[687.91697943 687.91697943]
+ [691.04362758 691.04362758]
+ [684.39215031 684.39215031]
+ [676.94737082 676.94737082]
+ [666.45567846 666.45567846]
+ [656.70869254 656.70869254]
+ [651.72183227 651.72183227]
+ [649.63998131 649.63998131]
+ [653.24911871 653.24911871]
+ [653.50822673 653.50822673]
+ [656.61249416 656.61249416]
+ [657.72121961 657.72121961]
+ [656.21840563 656.21840563]
+ [651.83528309 651.83528309]
+ [646.72419266 646.72419266]
+ [644.26958171 644.26958171]
+ [646.36767017 646.36767017]
+ [652.52312545 652.52312545]
+ [662.41992702 662.41992702]
+ [674.7848576  674.7848576 ]
+ [688.92094392 688.92094392]
+ [704.41571688 704.41571688]
+ [719.61197984 719.61197984]
+ [733.59850031 733.59850031]
+ [746.40035611 746.40035611]
+ [757.98107666 757.98107666]
+ [767.52717361 767.52717361]
+ [772.03810611 772.03810611]
+ [769.72505184 769.72505184]
+ [762.79350352 762.79350352]
+ [755.44267378 755.44267378]
+ [747.74146807 747.74146807]
+ [737.84935705 737.84935705]
+ [725.33913477 725.33913477]
+ [711.93563175 711.93563175]
+ [698.59655722 698.59655722]
+ [687.40694414 687.40694414]
+ [677.69081376 677.69081376]
+ [670.08080481 670.08080481]
+ [666.4070477  666.4070477 ]
+ [667.08489117 667.08489117]
+ [670.83262427 670.83262427]
+ [675.84727894 675.84727894]
+ [681.87953638 681.87953638]
+ [685.34718436 685.34718436]
+ [687.91697943 687.91697943]]
+2019-04-24 06:31:26,619 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:31:26,800 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:37] - INFO: [[192.50339849 687.91697943]
+ [208.90380442 691.04362758]
+ [211.78879175 684.39215031]
+ [216.04821334 676.94737082]
+ [218.44022721 666.45567846]
+ [213.59097958 656.70869254]
+ [201.53642529 651.72183227]
+ [187.59429455 649.63998131]
+ [171.68871396 653.24911871]
+ [155.69310553 653.50822673]
+ [140.81731935 656.61249416]
+ [125.58769021 657.72121961]
+ [111.40628863 656.21840563]
+ [ 98.56969863 651.83528309]
+ [ 86.39169277 646.72419266]
+ [ 74.67563781 644.26958171]
+ [ 64.11172263 646.36767017]
+ [ 54.43696181 652.52312545]
+ [ 45.92980941 662.41992702]
+ [ 40.97260721 674.7848576 ]
+ [ 38.79978777 688.92094392]
+ [ 37.3533871  704.41571688]
+ [ 36.3309402  719.61197984]
+ [ 36.43022291 733.59850031]
+ [ 37.68216239 746.40035611]
+ [ 38.99221495 757.98107666]
+ [ 39.79156829 767.52717361]
+ [ 39.36895811 772.03810611]
+ [ 40.86261243 769.72505184]
+ [ 44.11188099 762.79350352]
+ [ 49.10096071 755.44267378]
+ [ 55.77607453 747.74146807]
+ [ 62.16685019 737.84935705]
+ [ 67.6014502  725.33913477]
+ [ 74.57966357 711.93563175]
+ [ 83.81826886 698.59655722]
+ [ 94.60547111 687.40694414]
+ [106.61897684 677.69081376]
+ [119.02188799 670.08080481]
+ [132.80698864 666.4070477 ]
+ [146.61047608 667.08489117]
+ [159.49835545 670.83262427]
+ [171.77402642 675.84727894]
+ [184.01437998 681.87953638]
+ [184.60008999 685.34718436]
+ [192.50339849 687.91697943]]
+2019-04-24 06:31:26,800 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:37] - INFO: [[192.50339849 687.91697943]
+ [208.90380442 691.04362758]
+ [211.78879175 684.39215031]
+ [216.04821334 676.94737082]
+ [218.44022721 666.45567846]
+ [213.59097958 656.70869254]
+ [201.53642529 651.72183227]
+ [187.59429455 649.63998131]
+ [171.68871396 653.24911871]
+ [155.69310553 653.50822673]
+ [140.81731935 656.61249416]
+ [125.58769021 657.72121961]
+ [111.40628863 656.21840563]
+ [ 98.56969863 651.83528309]
+ [ 86.39169277 646.72419266]
+ [ 74.67563781 644.26958171]
+ [ 64.11172263 646.36767017]
+ [ 54.43696181 652.52312545]
+ [ 45.92980941 662.41992702]
+ [ 40.97260721 674.7848576 ]
+ [ 38.79978777 688.92094392]
+ [ 37.3533871  704.41571688]
+ [ 36.3309402  719.61197984]
+ [ 36.43022291 733.59850031]
+ [ 37.68216239 746.40035611]
+ [ 38.99221495 757.98107666]
+ [ 39.79156829 767.52717361]
+ [ 39.36895811 772.03810611]
+ [ 40.86261243 769.72505184]
+ [ 44.11188099 762.79350352]
+ [ 49.10096071 755.44267378]
+ [ 55.77607453 747.74146807]
+ [ 62.16685019 737.84935705]
+ [ 67.6014502  725.33913477]
+ [ 74.57966357 711.93563175]
+ [ 83.81826886 698.59655722]
+ [ 94.60547111 687.40694414]
+ [106.61897684 677.69081376]
+ [119.02188799 670.08080481]
+ [132.80698864 666.4070477 ]
+ [146.61047608 667.08489117]
+ [159.49835545 670.83262427]
+ [171.77402642 675.84727894]
+ [184.01437998 681.87953638]
+ [184.60008999 685.34718436]
+ [192.50339849 687.91697943]]
+2019-04-24 06:31:26,822 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:42] - INFO: ==========
+2019-04-24 06:31:26,822 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:42] - INFO: ==========
+2019-04-24 06:31:26,823 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:43] - INFO: [[687.91697943 192.50339849]
+ [691.04362758 208.90380442]
+ [684.39215031 211.78879175]
+ [676.94737082 216.04821334]
+ [666.45567846 218.44022721]
+ [656.70869254 213.59097958]
+ [651.72183227 201.53642529]
+ [649.63998131 187.59429455]
+ [653.24911871 171.68871396]
+ [653.50822673 155.69310553]
+ [656.61249416 140.81731935]
+ [657.72121961 125.58769021]
+ [656.21840563 111.40628863]
+ [651.83528309  98.56969863]
+ [646.72419266  86.39169277]
+ [644.26958171  74.67563781]
+ [646.36767017  64.11172263]
+ [652.52312545  54.43696181]
+ [662.41992702  45.92980941]
+ [674.7848576   40.97260721]
+ [688.92094392  38.79978777]
+ [704.41571688  37.3533871 ]
+ [719.61197984  36.3309402 ]
+ [733.59850031  36.43022291]
+ [746.40035611  37.68216239]
+ [757.98107666  38.99221495]
+ [767.52717361  39.79156829]
+ [772.03810611  39.36895811]
+ [769.72505184  40.86261243]
+ [762.79350352  44.11188099]
+ [755.44267378  49.10096071]
+ [747.74146807  55.77607453]
+ [737.84935705  62.16685019]
+ [725.33913477  67.6014502 ]
+ [711.93563175  74.57966357]
+ [698.59655722  83.81826886]
+ [687.40694414  94.60547111]
+ [677.69081376 106.61897684]
+ [670.08080481 119.02188799]
+ [666.4070477  132.80698864]
+ [667.08489117 146.61047608]
+ [670.83262427 159.49835545]
+ [675.84727894 171.77402642]
+ [681.87953638 184.01437998]
+ [685.34718436 184.60008999]
+ [687.91697943 192.50339849]]
+2019-04-24 06:31:26,823 - /shared/tmp/jupyter/zbz_test/curve_gcn_release/flask_server/algrithm.py[line:43] - INFO: [[687.91697943 192.50339849]
+ [691.04362758 208.90380442]
+ [684.39215031 211.78879175]
+ [676.94737082 216.04821334]
+ [666.45567846 218.44022721]
+ [656.70869254 213.59097958]
+ [651.72183227 201.53642529]
+ [649.63998131 187.59429455]
+ [653.24911871 171.68871396]
+ [653.50822673 155.69310553]
+ [656.61249416 140.81731935]
+ [657.72121961 125.58769021]
+ [656.21840563 111.40628863]
+ [651.83528309  98.56969863]
+ [646.72419266  86.39169277]
+ [644.26958171  74.67563781]
+ [646.36767017  64.11172263]
+ [652.52312545  54.43696181]
+ [662.41992702  45.92980941]
+ [674.7848576   40.97260721]
+ [688.92094392  38.79978777]
+ [704.41571688  37.3533871 ]
+ [719.61197984  36.3309402 ]
+ [733.59850031  36.43022291]
+ [746.40035611  37.68216239]
+ [757.98107666  38.99221495]
+ [767.52717361  39.79156829]
+ [772.03810611  39.36895811]
+ [769.72505184  40.86261243]
+ [762.79350352  44.11188099]
+ [755.44267378  49.10096071]
+ [747.74146807  55.77607453]
+ [737.84935705  62.16685019]
+ [725.33913477  67.6014502 ]
+ [711.93563175  74.57966357]
+ [698.59655722  83.81826886]
+ [687.40694414  94.60547111]
+ [677.69081376 106.61897684]
+ [670.08080481 119.02188799]
+ [666.4070477  132.80698864]
+ [667.08489117 146.61047608]
+ [670.83262427 159.49835545]
+ [675.84727894 171.77402642]
+ [681.87953638 184.01437998]
+ [685.34718436 184.60008999]
+ [687.91697943 192.50339849]]
+2019-04-24 06:32:36,952 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:33:21,274 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:33:21,274 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:42:55,305 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:44:19,439 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:46:18,993 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:46:52,499 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 06:46:52,499 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:09:32,932 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:09:32,932 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:14:06,850 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:14:06,850 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:14:07,188 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:14:07,188 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:14:29,131 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:14:29,131 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:21:10,494 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:21:10,494 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:21:10,807 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:21:10,807 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:31,452 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:31,452 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:31,729 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:31,729 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:41,086 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:41,086 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:41,436 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:22:41,436 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:02,543 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:02,543 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:02,835 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:02,835 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:08,069 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:08,069 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:08,475 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:08,475 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:08,717 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:23:08,717 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:24:57,094 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:24:57,094 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:39:45,294 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:39:45,294 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:44:24,070 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:44:24,070 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:47:00,704 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:47:00,704 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:47:22,728 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:47:22,728 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:48:01,445 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:48:01,445 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:49:55,203 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:49:55,203 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:08,186 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:08,186 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:25,106 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:25,106 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:25,565 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:25,565 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:53,363 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:53,363 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:54,066 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 07:50:54,066 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:06:08,754 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:06:08,754 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:06:42,994 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:06:42,994 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:07:06,637 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:07:06,637 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:07:30,200 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:07:30,200 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:07:46,330 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:07:46,330 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:08:07,748 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:08:07,748 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:08:39,984 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:08:39,984 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:11:53,920 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:11:53,920 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:13:07,574 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:13:07,574 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:13:32,031 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:13:32,031 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:23:55,825 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:23:55,825 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:24:06,498 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:24:06,498 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:24:52,779 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:24:52,779 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:26:54,095 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:26:54,095 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:28:39,625 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:28:39,625 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:36,881 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:36,881 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:39,048 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:39,048 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:41,084 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:41,084 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:43,137 - c_gcn_server.py[line:19] - INFO: get post info
+2019-04-24 08:29:43,137 - c_gcn_server.py[line:19] - INFO: get post info
