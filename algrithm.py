@@ -5,8 +5,50 @@ import torch
 import skimage.transform as transform
 import numpy as np
 from flask import current_app
+from tools import test_DataProvider
+# from tools.test_DataProvider import DataProvider
 # from c_gcn_server import log
+from torch.utils.data import DataLoader
+from tqdm import tqdm
 model, device = get_model_device()
+
+def get_multi_curve_points(json_data,opts,CONTEXT_SCALE = 0.15):
+	dataset_val = test_DataProvider.DataProvider(d_json=json_data,opts=opts)
+	# print('dataset_val====',dataset_val.instances)
+	val_loader = DataLoader(dataset_val, batch_size = 1,
+							shuffle=False, num_workers = 1,
+							collate_fn=test_DataProvider.collate_fn)
+	return_list = []
+	with torch.no_grad():
+		for step, data in enumerate(tqdm(val_loader)):
+			img = data['crop_img'].to(device)
+			output = model(img,data['fwd_poly'])
+			# output['pred_polys'] = output['pred_polys'][-1]
+
+			pred_spline = output['pred_polys'][-1]
+			pred_spline = pred_spline.cpu().numpy()
+			print("================",data['scale_factor'])
+			# change to raw img size
+			poly = transform.rescale(pred_spline[0], 1/(data['scale_factor'][-1]), order=1, preserve_range=True, multichannel=True)
+			# print("mutil poly==========",poly)
+			# poly = transform.rescale(pred_spline, 1/2, order=1,preserve_range=True, multichannel=True)
+			poly = np.append(poly,[poly[0,:]], axis=0)
+
+			# if crop_info['widescreen']:
+			poly[:,0] = poly[:,0]*data['patch_w'][-1]+ data['x_min'][-1] # x_offset 
+			poly[:,1] = poly[:,1]*data['patch_w'][-1]+ data['y_min'][-1] # y_offset
+
+			if not data['widescreen']:
+				tmp = poly[:,0].copy()
+				poly[:,0] = poly[:,1]
+				poly[:,1] = tmp
+			result={
+				'img_path':data['img_path'][-1],
+				'poly':poly.tolist()
+			}
+			return_list.append(result)
+	# print('val_loader=====',val_loader)
+	return return_list
 
 def get_curve_points(img_path,region,CONTEXT_SCALE = 0.15):
 	from c_gcn_server import log
@@ -29,6 +71,7 @@ def get_curve_points(img_path,region,CONTEXT_SCALE = 0.15):
 	pred_spline = pred_spline.cpu().numpy()
 	# change to raw img size
 	poly = transform.rescale(pred_spline[0], 1/(crop_info['scale_factor']), order=1, preserve_range=True, multichannel=True)
+	# print("single poly==========",poly)
 	# poly = transform.rescale(pred_spline, 1/2, order=1,preserve_range=True, multichannel=True)
 	poly = np.append(poly,[poly[0,:]], axis=0)
 	
