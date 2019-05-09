@@ -15,7 +15,7 @@ model, device = get_model_device()
 def get_multi_curve_points(json_data,opts,CONTEXT_SCALE = 0.15):
 	dataset_val = test_DataProvider.DataProvider(d_json=json_data,opts=opts)
 	# print('dataset_val====',dataset_val.instances)
-	val_loader = DataLoader(dataset_val, batch_size = 1,
+	val_loader = DataLoader(dataset_val, batch_size = current_app.config['BATCH_SIZE'],
 							shuffle=False, num_workers = 1,
 							collate_fn=test_DataProvider.collate_fn)
 	return_list = []
@@ -24,29 +24,33 @@ def get_multi_curve_points(json_data,opts,CONTEXT_SCALE = 0.15):
 			img = data['crop_img'].to(device)
 			output = model(img,data['fwd_poly'])
 			# output['pred_polys'] = output['pred_polys'][-1]
+			for idx in range(len(data['crop_img'])):
+				print("idx ================",idx)
+				# print('len(data[crop_img]=========',)
+				print('len(output[pred_polys])========',len(output['pred_polys']))
+				pred_spline = output['pred_polys'][-1]
+				pred_spline = pred_spline.cpu().numpy()
+				
+				# change to raw img size
+				poly = transform.rescale(pred_spline[0], 1/(data['scale_factor'][idx]), order=1, preserve_range=True, multichannel=True)
+				# print("mutil poly==========",poly)
+				# poly = transform.rescale(pred_spline, 1/2, order=1,preserve_range=True, multichannel=True)
+				poly = np.append(poly,[poly[0,:]], axis=0)
 
-			pred_spline = output['pred_polys'][-1]
-			pred_spline = pred_spline.cpu().numpy()
-			print("================",data['scale_factor'])
-			# change to raw img size
-			poly = transform.rescale(pred_spline[0], 1/(data['scale_factor'][-1]), order=1, preserve_range=True, multichannel=True)
-			# print("mutil poly==========",poly)
-			# poly = transform.rescale(pred_spline, 1/2, order=1,preserve_range=True, multichannel=True)
-			poly = np.append(poly,[poly[0,:]], axis=0)
-
-			# if crop_info['widescreen']:
-			poly[:,0] = poly[:,0]*data['patch_w'][-1]+ data['x_min'][-1] # x_offset 
-			poly[:,1] = poly[:,1]*data['patch_w'][-1]+ data['y_min'][-1] # y_offset
-
-			if not data['widescreen']:
-				tmp = poly[:,0].copy()
-				poly[:,0] = poly[:,1]
-				poly[:,1] = tmp
-			result={
-				'img_path':data['img_path'][-1],
-				'poly':poly.tolist()
-			}
-			return_list.append(result)
+				# if crop_info['widescreen']:
+				poly[:,0] = poly[:,0]*data['patch_w'][idx]+ data['x_min'][idx] # x_offset 
+				poly[:,1] = poly[:,1]*data['patch_w'][idx]+ data['y_min'][idx] # y_offset
+				print("data['widescreen']=========",data['widescreen'])
+				print('data[img_path]=============',data['img_path'])
+				if not data['widescreen'][idx]:
+					tmp = poly[:,0].copy()
+					poly[:,0] = poly[:,1]
+					poly[:,1] = tmp
+				result={
+					'img_path':data['img_path'][idx],
+					'poly':poly.tolist()
+				}
+				return_list.append(result)
 	# print('val_loader=====',val_loader)
 	return return_list
 
